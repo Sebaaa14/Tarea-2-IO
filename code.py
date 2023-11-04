@@ -2,8 +2,8 @@ entero = 50
 
 with open ("QAP_sko56_04_n") as files:
 #from ("QAP_sko56_04_n") import files
-
-# Carga el archivo QAP_sko56_04_n.txt desde tu computadora local al entorno de Colab
+asdsa
+# Carga el archivo QAP_aasdsdasdsko56_04_n.txt desde tu computadora local al entorno de Colab
 uploaded = files.upload()
 
 # Abre el archivo
