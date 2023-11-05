@@ -26,3 +26,4 @@ print("Tamaños de los puestos:", tamaños_puestos)
 print("Clientes estimados entre pares de puestos:")
 for fila in clientes_estimados:
     print(fila)
+
